@@ -38,6 +38,14 @@
 **2nd {Animation Timing Function values Cheatsheet}**
 <a href="./04-CSS Animation CheatSheet/Animtion Timing Function.png"><img src="./04-CSS Animation CheatSheet/Animtion Timing Function.png"></a>
 
+### 5. CSS Functions Ultimate Cheatsheet
+
+**1st {All CSS Functions Ultimate CheatSheet}**
+<a href="./05-All CSS Functions Cheatsheet/CSS Functions Cheatsheet.png"><img src="./05-All CSS Functions Cheatsheet/CSS Functions Cheatsheet.png"></a>
+
+**2nd {CSS Functions Explained}**
+<a href="./05-All CSS Functions Cheatsheet/CSS Function Explained.png"><img src="./05-All CSS Functions Cheatsheet/CSS Function Explained.png"></a>
+
 ---
 
 License:-
