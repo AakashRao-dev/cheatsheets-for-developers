@@ -1,10 +1,22 @@
-### ⚡ All CSS Cheatsheet in one Place ⚡
+### ⚡ All HTML & CSS Cheatsheet in one Place ⚡
 
 #### I created this repository for all my Cheatsheets in one place. You can download them use them share them if you want.
 
 ---
 
-### 1 CSS Units Cheatsheet
+## All HTML Cheatsheets
+
+### 1. HTML All Input Types Ultimate Cheatsheet
+
+**All HTML Input types in one frame.**
+
+<a href="./00-Html Input Types Cheatsheet/1.png"><img src="./00-Html Input Types Cheatsheet/1.png"></a>
+
+---
+
+## All CSS Cheatsheets
+
+### 1. CSS Units Cheatsheet
 
 **All CSS Units Expalined in one frame.**
 
