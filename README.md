@@ -63,5 +63,5 @@
 License:-
 
 - You can download it & use it anytime you want.
-- You can share it anywhere but add a small a small credit to me.
+- You can share it anywhere but add a small credit to me.
 - Thanks for the support. 💜
