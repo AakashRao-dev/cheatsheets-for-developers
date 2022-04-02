@@ -66,6 +66,14 @@
 **2nd {CSS Grid Cheatsheet - Light background for more clear & sharp look}**
 <a href="./06-CSS Grid Ultimate Cheatsheet/CSS Grid Cheatsheet - Light.png"><img src="./06-CSS Grid Ultimate Cheatsheet/CSS Grid Cheatsheet - Light.png"></a>
 
+### 7. CSS Filters Ultimate Cheatsheet
+
+**1st {CSS Filters CheatSheet - All filters in one frame}**
+<a href="./07-CSS FIlters Ultimate Cheatsheet/07-CSS Filters Ultimate Cheatsheet.png"><img src="./07-CSS FIlters Ultimate Cheatsheet/07-CSS Filters Ultimate Cheatsheet.png"></a>
+
+**2nd {CSS Filters Explained}**
+<a href="./07-CSS FIlters Ultimate Cheatsheet/02.png"><img src="./07-CSS FIlters Ultimate Cheatsheet/02.png"></a>
+
 ---
 
 License:-
