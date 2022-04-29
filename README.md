@@ -4,6 +4,29 @@
 
 ---
 
+<details>
+<summary>Navigation</summary>
+<br />
+
+- [All HTML Cheatsheets](#all-html-cheatsheets)
+  - [1. HTML All Input Types Ultimate Cheatsheet](#1-html-all-input-types-ultimate-cheatsheet)
+- [All CSS Cheatsheets](#all-css-cheatsheets)
+  - [1. CSS Units Cheatsheet](#1-css-units-cheatsheet)
+  - [2. CSS Selectors Cheatsheet](#2-css-selectors-cheatsheet)
+  - [3. CSS Flexbox Cheatsheet](#3-css-flexbox-cheatsheet)
+  - [4. CSS Animation Expalined + Cheatsheet](#4-css-animation-expalined--cheatsheet)
+  - [5. CSS Functions Ultimate Cheatsheet](#5-css-functions-ultimate-cheatsheet)
+  - [6. CSS Grid Ultimate Cheatsheet](#6-css-grid-ultimate-cheatsheet)
+  - [7. CSS Filters Ultimate Cheatsheet](#7-css-filters-ultimate-cheatsheet)
+  - [8. CSS Overflow Ultimate Cheatsheet](#8-css-overflow-ultimate-cheatsheet)
+  - [8. CSS All Border types Cheatsheet](#8-css-all-border-types-cheatsheet)
+  - [9. CSS Border vs Outline Cheatsheet](#9-css-border-vs-outline-cheatsheet)
+  - [10. CSS Border vs Outline Cheatsheet](#10-css-border-vs-outline-cheatsheet)
+  - [11. CSS Box Model Explained](#11-css-box-model-explained)
+  - [12. CSS Box Sizing Explained](#12-css-box-sizing-explained)
+  
+</details>
+
 ## All HTML Cheatsheets
 
 ### 1. HTML All Input Types Ultimate Cheatsheet
@@ -93,7 +116,7 @@
 **1st {Css box model}**
 <a href="./09-Box Model & Box Sizing/01.png"><img src="./09-Box Model & Box Sizing/01.png"></a>
 
-### 11. CSS Box Sizing Explained
+### 12. CSS Box Sizing Explained
 
 **1st {Css box sizing explained}**
 <a href="./09-Box Model & Box Sizing/02.png"><img src="./09-Box Model & Box Sizing/02.png"></a>
