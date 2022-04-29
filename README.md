@@ -93,7 +93,7 @@
 **1st {Css box model}**
 <a href="./09-Box Model & Box Sizing/01.png"><img src="./09-Box Model & Box Sizing/01.png"></a>
 
-### 11. CSS Box Sizing Explained
+### 12. CSS Box Sizing Explained
 
 **1st {Css box sizing explained}**
 <a href="./09-Box Model & Box Sizing/02.png"><img src="./09-Box Model & Box Sizing/02.png"></a>
