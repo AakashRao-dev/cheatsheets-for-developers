@@ -27,20 +27,17 @@
 **All CSS Selectors Expalined in one frame.**
 
 **1st {Long one with single centered}**
-<a href="./02-CSS Selectors CheatSheet/Css Selectors Cheatsheet.png"><img src="./02-CSS Selectors CheatSheet/Css Selectors Cheatsheet.png"></a>
+<a href="./02-CSS Selectors CheatSheet/Css Selectors CheatSheet - 01.png"><img src="./02-CSS Selectors CheatSheet/Css Selectors CheatSheet - 01.png"></a>
 
 <br/>
 
 **2nd {Short one & more precise for reading}**
-<a href="./02-CSS Selectors CheatSheet/Css Selectors CheatSheet - 01.png"><img src="./02-CSS Selectors CheatSheet/Css Selectors CheatSheet - 01.png"></a>
+<a href="./02-CSS Selectors CheatSheet/Css Selectors Cheatsheet.png"><img src="./02-CSS Selectors CheatSheet/Css Selectors Cheatsheet.png"></a>
 
 ### 3. CSS Flexbox Cheatsheet
 
-**1st {Dark background for higher contrast}**
+**1st {All Properties explained visually}**
 <a href="./03-CSS Flexbox Cheatsheet/Css Flexbox Cheatsheet.png"><img src="./03-CSS Flexbox Cheatsheet/Css Flexbox Cheatsheet.png"></a>
-
-**2nd {Light background for more clear & sharp look}**
-<a href="./03-CSS Flexbox Cheatsheet/Css Flexbox Cheatsheet - bg.png"><img src="./03-CSS Flexbox Cheatsheet/Css Flexbox Cheatsheet - bg.png"></a>
 
 ### 4. CSS Animation Expalined + Cheatsheet
 
@@ -63,9 +60,6 @@
 **1st {CSS Grid CheatSheet - Dark background for higher contrast}**
 <a href="./06-CSS Grid Ultimate Cheatsheet/CSS Grid Cheatsheet - Dark.png"><img src="./06-CSS Grid Ultimate Cheatsheet/CSS Grid Cheatsheet - Dark.png"></a>
 
-**2nd {CSS Grid Cheatsheet - Light background for more clear & sharp look}**
-<a href="./06-CSS Grid Ultimate Cheatsheet/CSS Grid Cheatsheet - Light.png"><img src="./06-CSS Grid Ultimate Cheatsheet/CSS Grid Cheatsheet - Light.png"></a>
-
 ### 7. CSS Filters Ultimate Cheatsheet
 
 **1st {CSS Filters CheatSheet - All filters in one frame}**
@@ -73,6 +67,36 @@
 
 **2nd {CSS Filters Explained}**
 <a href="./07-CSS FIlters Ultimate Cheatsheet/02.png"><img src="./07-CSS FIlters Ultimate Cheatsheet/02.png"></a>
+
+### 8. CSS Overflow Ultimate Cheatsheet
+
+**1st {Css Oveflow Values Explained + Cheatsheet}**
+<a href="./08-Overflow, Outline & Borders/01.png"><img src="./08-Overflow, Outline & Borders/01.png"></a>
+
+### 8. CSS All Border types Cheatsheet
+
+**1st {Css All border types}**
+<a href="./08-Overflow, Outline & Borders/02.png"><img src="./08-Overflow, Outline & Borders/02.png"></a>
+
+### 9. CSS Border vs Outline Cheatsheet
+
+**1st {Css border vs outline}**
+<a href="./08-Overflow, Outline & Borders/03.png"><img src="./08-Overflow, Outline & Borders/03.png"></a>
+
+### 10. CSS Border vs Outline Cheatsheet
+
+**1st {Css border vs outline}**
+<a href="./08-Overflow, Outline & Borders/03.png"><img src="./08-Overflow, Outline & Borders/03.png"></a>
+
+### 11. CSS Box Model Explained
+
+**1st {Css box model}**
+<a href="./09-Box Model & Box Sizing/01.png"><img src="./09-Box Model & Box Sizing/01.png"></a>
+
+### 11. CSS Box Sizing Explained
+
+**1st {Css box sizing explained}**
+<a href="./09-Box Model & Box Sizing/02.png"><img src="./09-Box Model & Box Sizing/02.png"></a>
 
 ---
 
