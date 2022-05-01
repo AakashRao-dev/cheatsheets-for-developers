@@ -73,15 +73,10 @@
 **1st {Css Oveflow Values Explained + Cheatsheet}**
 <a href="./08-Overflow, Outline & Borders/01.png"><img src="./08-Overflow, Outline & Borders/01.png"></a>
 
-### 8. CSS All Border types Cheatsheet
+### 9. CSS All Border types Cheatsheet
 
 **1st {Css All border types}**
 <a href="./08-Overflow, Outline & Borders/02.png"><img src="./08-Overflow, Outline & Borders/02.png"></a>
-
-### 9. CSS Border vs Outline Cheatsheet
-
-**1st {Css border vs outline}**
-<a href="./08-Overflow, Outline & Borders/03.png"><img src="./08-Overflow, Outline & Borders/03.png"></a>
 
 ### 10. CSS Border vs Outline Cheatsheet
 
@@ -93,7 +88,7 @@
 **1st {Css box model}**
 <a href="./09-Box Model & Box Sizing/01.png"><img src="./09-Box Model & Box Sizing/01.png"></a>
 
-### 11. CSS Box Sizing Explained
+### 12. CSS Box Sizing Explained
 
 **1st {Css box sizing explained}**
 <a href="./09-Box Model & Box Sizing/02.png"><img src="./09-Box Model & Box Sizing/02.png"></a>
